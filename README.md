@@ -28,13 +28,13 @@ Below is an example of how PaliGemma processes an image along with a textual pro
 **Prompt:**
 
 ```plaintext
-This building is
+Name of this building is 
 ```
 
 #### **Model Output**
 
 ```plaintext
-This building is most famous
+Name of this building is Taj Mahal
 ```
 
 Above example demonstrate PaliGemma's ability to understand images and generate contextual response efficiently.
