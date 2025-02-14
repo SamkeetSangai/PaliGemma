@@ -41,5 +41,5 @@ Above example demonstrate PaliGemma's ability to understand images and generate 
 
 ## Credits
 
-- **Google DeepMind**: For advancements in vision-language models.
+- **Google DeepMind**: For developing the original PaliGemma model and providing the pre-trained weights.
 - **Umar Jamil**: For architecture code contributions.
