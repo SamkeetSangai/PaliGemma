@@ -1,8 +1,8 @@
 #!/bin/bash
 
 MODEL_PATH="paligemma-3b-pt-224"
-PROMPT="This building is "
-IMAGE_FILE_PATH="test_images/Taj_Mahal.jpg"
+PROMPT="Name of this building is "
+IMAGE_FILE_PATH="Taj_Mahal.jpeg"
 MAX_TOKENS_TO_GENERATE=100
 TEMPERATURE=0.8
 TOP_P=0.9
@@ -18,4 +18,3 @@ python inference.py \
     --top_p $TOP_P \
     --do_sample $DO_SAMPLE \
     --only_cpu $ONLY_CPU \
-
