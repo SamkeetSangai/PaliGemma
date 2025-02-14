@@ -34,7 +34,7 @@ This building is
 #### **Model Output**
 
 ```plaintext
-This building is the Taj Mahal, a UNESCO World Heritage site in India known for its stunning white marble architecture and historical significance.
+This building is the Taj Mahal, a UNESCO World Heritage site in India.
 ```
 
 Above example demonstrate PaliGemma's ability to understand images and generate contextual response efficiently.
